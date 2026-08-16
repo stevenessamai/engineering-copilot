@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "An engineering productivity layer for Claude Code: deep codebase analysis, concrete implementation planning, guided implementation, structured debugging, serious code review, targeted test generation, safe refactoring, documentation upkeep, dependency auditing, security review, architecture review, verification, and shipping — all operating on your real codebase, not a chatbot.",
   "author": {
-    "name": "YOUR_GITHUB_USERNAME"
+    "name": "stevenessamai"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/engineering-copilot",
-  "repository": "https://github.com/YOUR_GITHUB_USERNAME/engineering-copilot",
+  "homepage": "https://github.com/stevenessamai/engineering-copilot",
+  "repository": "https://github.com/stevenessamai/engineering-copilot",
   "license": "MIT",
   "keywords": [
     "engineering",
