@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "engineering-copilot-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace for Engineering Copilot, an engineering productivity plugin for Claude Code.",
+  "owner": {
+    "name": "YOUR_GITHUB_USERNAME"
+  },
+  "plugins": [
+    {
+      "name": "engineering-copilot",
+      "description": "Automates the repetitive engineering work developers do around a real codebase: analyze, plan, implement, debug, review, test, refactor, docs, dependencies, security, architecture, verify, and ship.",
+      "version": "1.0.0",
+      "author": {
+        "name": "YOUR_GITHUB_USERNAME"
+      },
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
