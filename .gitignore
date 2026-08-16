@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude local state (project-specific context created when this plugin
+# is USED on another project — not part of plugin distribution itself)
+.claude/local/
+.claude/*.local.json
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# Secrets / credentials — never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Build artifacts (for local development/testing of this plugin only)
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
