@@ -29,7 +29,7 @@ This is not a general chatbot bolted onto your editor. Every skill inspects your
 ## Installation
 
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/engineering-copilot
+/plugin marketplace add stevenessamai/engineering-copilot
 /plugin install engineering-copilot@engineering-copilot-marketplace
 ```
 
